@@ -29,6 +29,8 @@ heroku/python
 ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyniteOfficial/Uploader-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/bk3cinuwEfo)
